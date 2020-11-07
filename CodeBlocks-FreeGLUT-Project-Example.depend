@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1604755751 source:c:\users\rizwan\downloads\codeblocks-freeglut-project-example\main.cpp
+	<GL/glut.h>
+	<cmath>
+
+1426328128 c:\users\rizwan\downloads\codeblocks-freeglut-project-example\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426328128 c:\users\rizwan\downloads\codeblocks-freeglut-project-example\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
